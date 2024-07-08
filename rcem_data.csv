@@ -1,0 +1,246 @@
+﻿Case Name,Page Number,Fatalities,Fatality Rate,DV(ft2/s),Warning,Dam Height (ft),Dam Failure?,Types of Dams,Total PAR,DD to PAR (miles),Floodplain,Reservoir Storage (af),Scenario,Day or Night,Start Date,End Date,Flood Severity,,Breach Tf,Flood Severity Understanding,Maximum DV high (ft2/s),Maximum DV low ft2s,DV notes,Confidence,Confidence Notes,DSO-99-06 case?,RCEM data point?
+"Allegheny County, PA Flash Flood",94,8,0.00364,,no warning,na,no,,2200,na,Wide,na,others,night,5/30/1986,5/30/1986,low,,na,na,,,,good,data is very limited,Y,N
+"Arkansas River Flood, Colorado",66,100,0.05,98.5,adequate warning,na,no,,2000,0,Wide,na,others,night,6/3/1921,6/3/1921,medium,,na,vague,147,50,147 ft2/s is estimated close to the river,fair to good,,Y,Y
+"Arno River Flood, Florence Italy",88,127,0.00144,75,adequate warning,na,no,,88000,1,Wide,na,others,day,11/3/1966,11/3/1966,medium,,na,unknown,75,54,DV estimated by Bas Jonkman,fair to good,PAR could be further investigated.,N,Y
+Austin (Bayless) Dam,32,78,0.034,120,Partial warning,50,yes,concrete,2300,1.5,Narrow,1500,hydrologic,day,9/30/1911,9/30/1911,medium,,fast,vague,160,80,"high DV was estimated, but area not ""swept clean""….the high DV occurred, probably at the river channel, but the developed areas may have been on the fringes.. From looking at photos of the aftermath, the damage does not appear to have been extensive enough to have had this high a level of DV exposure",good,,Y,Y
+Austin Texas Flood,104,13,0.01102,40,no warning,na,no,,1180,na,Wide,na,others,night,5/24/1981,5/25/1981,low,,na,vague,70,10,"DV is unknown, but was high enough to wash cars off bridges and damamge houses",fair,,Y,Y
+Austin Texas Flood,104,13,0.01102,40,adequate warning,na,no,,1180,na,Wide,na,others,night,5/24/1981,5/25/1981,low,,na,vague,70,10,"DV is unknown, but was high enough to wash cars off bridges and damamge houses",fair,,Y,Y
+Baldwin Hills Dam - dam to Sanchez Drive,58,0,0,200,adequate warning,232,yes,earth,100,0.25,Wide,738,static ,day,12/14/1963,12/14/1963,medium,,moderately slow,precise,200,,DV was very high in the steep confined reach just below the dam - there were no fatalities in this reach though.,good,,Y,Y
+"Baldwin Hills Dam - downstream of  Sanchez Drive, including Village Green",58,5,0.0003,70,adequate warning,232,yes,earth,16400,1.75,Wide,738,static ,day,12/14/1963,12/14/1963,medium,,moderately slow,precise,70,,,good,,Y,Y
+Banqiao Dam - Shahedian Town,74,827,0.13783,93,Partial warning,80.3796,yes,earth,6000,5.6,Wide,398868,hydrologic,night,8/8/1975,8/8/1975,high,,moderately slow,unknown,116,70,DV estimated by discharge divided by floodplain width,fair,"Reported more than 1 hr of warning with a high fataltiy rate. Some photos and a detailed map would increase confidence, information on warning issuance seems sketchy. Residential structures were reportedly made of adobe. The weakness of the structures probably contributed to the fatality rate.",N,Y
+Banqiao Dam - Suiping County (excluding Wencheng),74,9375,0.06209,38.5,no warning,80.3796,yes,earth,151000,20.2,Wide,398868,hydrologic,night,8/8/1975,8/8/1975,low,,moderately slow,na,48,29,DV estimated by discharge divided by floodplain width,fair,Very high fatality rate for low severity flooding. Some photos and a detailed map would increase confidence. Residential structures were probably made of adobe. The weakness of the structures probably contributed to the fatality rate.,N,Y
+Banqiao Dam - Wencheng Town,74,929,0.47014,67.5,no warning,80.3796,yes,earth,1976,9.95,Wide,398868,hydrologic,night,8/8/1975,8/8/1975,medium,,moderately slow,na,81,54,DV estimated by discharge divided by floodplain width,fair,"Some photos and a detailed map would increase confidence. Residential structures were probably made of adobe. The  
+weakness of the structures probably contributed to the fatality rate.",N,Y
+Banqiao Dam (and Shimantan Dam) - downstream of Suiping,74,2892,0.01339,,no warning,80.3796,yes,earth,216000,32.5,Wide,398868,hydrologic,night,8/8/1975,8/8/1975,low,,moderately slow,na,,,DV information could possibly be estimated if a better description/photos were available,fair,Fataltiy rate is more typical when compared to the high-end of the DSO-99-06 cases. Need DV information,N,N
+Bear Wallow Dam,34,4,0.5,64.5,no warning,36,yes,earth,8,0.8,Narrow,40,hydrologic,night,2/22/1976,2/22/1976,medium,,fast,na,100,50,"peak breach discharge may have been as high as 10,000 ft3/s. Dv is estimated assuming a 100 ft wide  
+channel at the location of fatalities.",good,"flood severity is downgraded to medium from the 99-06 estimate of high. Considering the height of the breach, the estimation of DV, and the photographs portraying the damage, the flood appears to fit better in the medium severity category",Y,Y
+Big Bay Dam,72,0,0,274,adequate warning,51,yes,earth,unknown,9.3,Wide,14200,static failure,day,3/12/2004,3/12/2004,medium,,fast,unknown,470,78,"DV is very high, but probably did not meet rate of rise criteria for high severity",good,"this case has been studied extensively, but there are some conflicting data between various reports",N,Y
+Big Thompson Flood,51,144,0.04114,75,no warning,na,no,,3500,na,Narrow,na,others,night,7/31/1976,8/1/1976,medium,,na,vague,411,25,"411 ft2/s comes from Wikipedia description of 14mph and 20 foot wall of water. Other DV values come from  
+USGS aer 1115",good,,Y,Y
+Brush Creek Flash Flood,114,20,0.008,30,Partial warning,na,no,,2380,na,Wide,na,others,night,9/12/1977,9/12/1977,low,,na,vague,50,10,,fair,,Y,Y
+Brush Creek Flash Flood,114,20,0.01,30,no warning,na,no,,2380,na,Wide,na,others,night,9/12/1977,9/12/1977,low,,na,vague,50,10,,fair,,Y,Y
+Buffalo Creek Coal Waste Dam - Overall,54,125,0.025,125,no warning,45,yes,earth,5000,8,Narrow,404,hydrologic,day,2/26/1972,2/26/1972,medium,,fast,vague,400,90,Estimated overall DV range,good,,Y,Y
+Bushy Hill Pond Dam,102,0,0,25,adequate warning,29,yes,earth,300,1.6,Wide,616,hydrologic,night,8/6/1982,8/6/1982,low,,unknown,precise,30,20,DV is very approximate,good,,Y,Y
+Canyon Lake Dam/Black Hills Flood,64,245,0.01441,95,Partial warning,30,yes,earth,17000,0,Wide,192,hydrologic,night,6/9/1972,6/9/1972,medium,,moderately fast,vague,160,30,"Wide range of DV - 2D hydraulic modeling results by Reclamation indicate that some fatalities may have  
+occurred in locations where DV was in the low severity zone.",good,hydraulic modeling has been done and locations of many fatalties have been identified.,Y,Y
+"Cyclone Xynthia, France - Villages of La Faute-sur-Mer and L'Aiguillon-sur-Mer",112,29,0.00967,21.5,no warning,unknown,no,,3000,na,Wide,na,others,night,2/28/2010,2/28/2010,low,,unknown,na,32,11,"DV estimated by Bas Jonkman, possibly with reported depths and estimates of velocities based on photos and  
+videos",good,"coastal flood, well documented on web",N,Y
+DMAD Dam,100,1,0.002,12.5,adequate warning,34,yes,earth,500,12,Wide,16000,hydrologic,day,6/23/1983,6/23/1983,low,,fast,precise,15,10,DV is approximate,good,fits low severity category well,Y,Y
+Dongkoumiao Dam - Jiyi Village,118,32,0.02667,37,no warning,70.5372,yes,earth,1200,0.45,Wide,2067,static,day,6/2/1971,6/2/1971,low,,unknown,na,48,26,"Zhou perform FLDWAV modeling in 2006, DV appears to have been estimated from model discharge data  
+divided by flood plain width",fair,"Upper bound fataltiy rate for low severity when compared to 99-06 case histories. A better description, photos and a detailed map would improve comnfidence in data",N,Y
+Dongkoumiao Dam - Lijiayuan and Huangxikou Villages,118,154,0.044,13,no warning,70.5372,yes,earth,3500,1.05,Wide,2067,static,day,6/2/1971,6/2/1971,low,,unknown,na,15,11,"Zhou perform FLDWAV modeling in 2006, DV appears to have been estimated from model discharge data  
+divided by flood plain width",fair,"Very high fatality rate for low severity when compared to 99-06 case histories. A better description, photos and a detailed map would improve comnfidence in data",N,Y
+"Gleno Dam, Dezzo Village",27,356,0.42,2714,no warning,143,yes,concrete,500,13.3,Narrow,4400,static,day,12/1/1923,12/1/1923,high,,fast,na,2714,,Estimated DV at Dezzo,good,"Dv has been estimate d for multiple locations, but PAR is known only for Dezzo Village",N,Y
+Great Flood of 1993,108,38,0.00025,,adequate warning,na,no,,150000,na,Wide,na,others,varied,4/1/1993 ,10/1/1993,low,,na,precise,,,,poor,"this flood event contains limited information. The value that it adds to the overall consequences database may be  
+minimal.",Y,N
+Hengjiang Dam - Jiaogutan and Xiangxin Villages,82,1,0.0004,97,adequate warning,147.636,yes,earth,2500,1.8,Wide,63876,static,day,9/15/1970,9/15/1970,medium,,unknown,unknown,140,54,,fair,Warning was reported to not have been very good at locations beyond 1.8 miles from the dam.,N,Y
+Hengjiang Dam - Jieyang City,82,40,0.0008,43,no warning,148,yes,earth,50000,5.1,Wide,63876,static,day,9/15/1970,9/15/1970,low,,unknown,na,54,32,,fair,"At Jieyang City,  flood severity was low but fatality rates actually increased, due to the lack of warning.",N,Y
+Hengjiang Dam - Xinjian and Xinsi Villages,82,0,0,344.5,adequate warning,147.636,yes,earth,2500,1.2,Narrow,63876,static,day,9/15/1970,9/15/1970,high to medium,,unknown,precise,549,140,brick and masonry buildings were swept away by the flood,fair,"very interesting - high severity flooding, 15 min warning (adequate warning in 15 min!), eveyone got out - zero fatalities",N,Y
+"Heppner, Oregon Flash Flood",62,247,0.17643,75,no warning,na,no,,1400,na,Narrow,na,others,day,6/14/1903,6/14/1903,medium,,na,na,100,50,"Floods depths greater than 10 feet, DV is guesstimated, photos show building destruction in some locations  
+that may indicate DV of 80 ft2/s or higher.",fair,,Y,Y
+Hurricane Agnes Floods,110,48,0.00019,,adequate warning,na,no,,250000,na,Wide,na,others,varied,6/1/1972,7/1/1972,low,,na,precise,,,,poor,no specific information about the characteristics of flooding relative to the flood fatalities is available,Y,N
+"Hurricane Katrina, New Orleans, East Bowl",119,68,0.00098,23,adequate warning,13.1232,no,,69290,na,Wide,na,others,day,8/29/2005,8/29/2005,low,,slow,unknown,22,0,DV based on hydraulic modeling by Bas Jonkman et al,good,,N,Y
+"Hurricane Katrina, New Orleans, Lower 9th Ward",119,73,0.00521,53.5,adequate warning,13.1232,no,,14000,na,Wide,na,others,day,8/29/2005,8/29/2005,medium to low,,moderately fast,unknown,75,32,DV based on hydraulic modeling by Bas Jonkman et al,good,"event is well documented, many were warned, but did not evacuate because they had no where to go, no money, no  
+car etc..",N,Y
+"Hurricane Katrina, New Orleans, Metro Bowl",119,260,0.00102,22,adequate warning,13.1232,no,,255900,na,Wide,na,others,day,8/29/2005,8/29/2005,low,,slow,unknown,22,0,DV based on hydraulic modeling by Bas Jonkman et al,good,,N,Y
+"Japan Tsunami, 2011, Higashimatsushima, Miyagi Prefecture",29,1138,0.04158,269,Partial warning,na,no,,27368,na,Wide,na,others,day,3/11/2011,3/11/2011,high,,na,unknown,269,,DV estimated by Bas Jonkman,fair to good,further investigation may improve confidence level,N,Y
+"Japan Tsunami, 2011, Minamisanriku, Miyagi Prefecture",29,902,0.04705,861,Partial warning,na,no,,19170,na,Wide,na,others,day,3/11/2011,3/11/2011,high,,na,unknown,861,,"DV estimated by Bas Jonkman, depth came from Wikipedia, not sure how velocity was estimated",fair to good,further investigation may improve confidence level,N,Y
+"Japan Tsunami, 2011, Onagawa, Miyagi Prefecture",29,980,0.08761,807,Partial warning,na,no,,11186,na,Wide,na,others,day,3/11/2011,3/11/2011,high,,na,unknown,807,,"DV estimated by Bas Jonkman, not sure how",fair to good,further investigation may improve confidence level,N,Y
+Ka Loko Dam,70,7,0.7,110,no warning,40,yes,earth,10,2.7,Wide,1200,hydrologic,night,3/14/2006,3/14/2006,medium,,unknown,na,160,60,DV is very approximate,fair,,N,Y
+Kansas River Flood,107,11,0.00019,,adequate warning,na,no,,58010,na,Wide,na,others,varied,7/13/1951,7/13/1951,low,,na,precise,,,,poor,no specific information about the characteristics of flooding relative to the flood fatalities is available,Y,N
+Kelly Barnes Dam,39,36,0.36,85,no warning,38,yes,earth,100,1,Wide,630,hydrologic,night,11/6/1977,11/6/1977,medium,,fast,na,120,50,"max DV estimated using 24,000 ft3/s max discharge and 200 ft wide flooded area. Low estimate based on  
+lower threshold for medium severit",good,,Y,Y
+Laurel Run Dam -  Johnstown,37,0,0,120,adequate warning,42,yes,earth,unknown,5.5,Wide,450,hydrologic,night,8/20/1977,8/20/1977,medium/low,,unknown,unknown,160,80,based on photos of destruction,good,,Y,Y
+Laurel Run Dam -  Tanneryville,37,41,0.27333,120,no warning,42,yes,earth,150,1.5,Narrow,450,hydrologic,night,8/20/1977,8/20/1977,medium,,unknown,na,160,80,"houses destroyed, DV is a guesstimate, high velocity info from usgs hydraulic study, but no depths given.",good,,Y,Y
+Lawn Lake Dam -  Fall River Road/Estes Park,44,0,0,71,adequate warning,26,yes,earth,4000,8,Wide,674,static,day,7/15/1982,7/15/1982,medium,,unknown,precise,71,,,very good,,Y,Y
+Lawn Lake Dam - Aspenglen Campground,44,2,0.007,121,adequate warning,26,yes,earth,275,7,Narrow,674,static,day,7/15/1982,7/15/1982,medium,,unknown,vague,121,,,very good,,Y,Y
+Lawn Lake Dam - Roaring River,44,1,0.04,174.5,no warning,26,yes,earth,25,3,Narrow,674,static,day,7/15/1982,7/15/1982,high,,unknown,na,210,139,,very good,,Y,Y
+Lee Lake Dam,97,2,0.025,45,no warning,25,yes,earth,80,2.5,Wide,300,static,day,3/24/1968,3/24/1968,low,,unknown,na,80,10,based on damage to buildings,fair to good,,Y,Y
+Lijiazui Dam - Lijiazui Village,78,516,0.49903,110,no warning,82.02,yes,earth,1034,0.4,Wide,1176,hydrologic,night,4/27/1973,4/27/1973,medium,,unknown,na,110,,"Zhou perform FLDWAV modeling in 2006, DV appears to have been estimated from model discharge data  
+divided by flood plain width",fair,"High fataltiy rate for medium severity (Macchu II was higher though) Adobe residential structures, which were weak, may have contributed to the high fatalities, A beeter description, photos and a detailed location map might improve confidence in data",N,Y
+Little Deer Creek Dam,35,1,0.14,161,no warning,86,yes,earth,7,7.2,Narrow,1100,static,day,6/16/1963,6/16/1963,medium,,unknown,na,196,126,"DV values away from river channel, where the PAR may have been located, were probably lower then what is  
+presented here",good,,Y,Y
+"Liujaitai Dam - Gaoshi, Haoshan and Zhigushi Villages",80,525,0.18858,409,adequate warning,117.45264,yes,earth,2784,2.45,Narrow,32866,hydrologic,night,8/8/1963,8/8/1963,high,,fast,vague,409,,DV probably estimated from discharge/flood width,fair,"warning was issued more than 1 hr prior to failure. Most evacuated to high ground, but then many returned home to  
+sleep, not believing that there would be serious flooding",N,Y
+Liujaitai Dam - Linxi and Taiping Villages and Tuonan Town,80,352,0.10368,169.5,Partial warning,117.45264,yes,earth,3395,6.8,Wide,32866,hydrologic,night,8/8/1963,8/8/1963,medium to high,,fast,vague,248,91,DV estimate discharge (obtained from gaging station) divided by flood width,fair,"more details, including photos and a detailed map would help to increase confidence",N,Y
+Liujaitai Dam > 9.3 miles downstream,80,60,0.00503,30,no warning,117,yes,earth,11929,10,Narrow,32866,hydrologic,night,8/8/1963,8/8/1963,low,,fast,vague,50,,Dv not given,fair,warning actually descreased as distance increased from the dam!,N,Y
+Macchu II Dam,68,"20,000 to 25,000",0.6,100,no warning,85,yes,earth,425000,4,Wide,81900,hydrologic,day,8/11/1979,8/11/1979,medium,,moderate,na,150,50,,good,total fatality and PAR numbers have only fair confidence level,N,Y
+Malpasset - Lower Reyran River,21,69,0.21,129,no warning,200,yes,concrete,330,4.05,Wide,18000,hydrologic,night,12/2/1959,12/2/1959,high/medium,,very fast,na,215,43,DV is based on BC Hydro 2D analysis,good,,N,Y
+Malpasset Dam - Argens River to the sea,21,27,0.01084,27,Partial warning,200,yes,concrete,2490,6,Wide,18000,hydrologic,night,12/2/1959,12/2/1959,low,,very fast,unknown,43,11,DV is based on BC Hydro 2D analysis,good,,N,Y
+Malpasset Dam - Frejus,21,227,0.3632,129,no warning,200,yes,concrete,625,6,Wide,18000,hydrologic,night,12/2/1959,12/2/1959,high/medium,,very fast,na,215,43,"BCH 2D modeling, Upper Frejus was high severity, but much of the town was medium",good,"BC Hydro research estimates where PAR was located and hydraulic model estimates DV at d/s locations, total PAR   
+3668. total fatalities 423 to 550",Y,Y
+Malpasset Dam - Upper Reyran River,21,155,0.7,645.5,no warning,200,yes,concrete,220,1.1,Narrow,18000,hydrologic,night,12/2/1959,12/2/1959,high,,very fast,na,1076,215,DV is based on BC Hydro 2D analysis,good,"BC Hydro research estimates where PAR was located and hydraulic model estimates DV at d/s locations, total PAR   
+3668. total fatalities 423 to 550,",Y,Y
+Manitou Springs Flash Flood (Highway 24),89,1,0.02,50,no warning,na,no,,50,0.25,Narrow,na,others,day,8/9/2013,8/9/2013,medium,,na,na,50,,"Maximum DV estimated from reports of 5 foot flood depths and from video footage of floating cars (at least 10  
+ft/s)",good,"Case is well documented with photos, video, newspaper articles and interviews with witnesses",N,Y
+Meadow Pond (Bergeron Pond) Dam,124,1,0.03125,7,no warning,32,yes,earth,32,1,Wide,282,static,night,3/13/1996,3/13/1996,low,,moderately fast,na,7,,Dv estimatedd by McClelland and Bowles - was likely higher at road crossing where fatality occurred.,good,event has been well documented,N,Y
+Mill River Dam,42,138,0.184,105,no warning,43,yes,earth,750,6.5,Narrow,307,static,day,5/16/1874,5/16/1874,medium,,fast,unknown,160,50,264 ft/s assuming 20 foot depth at Williamsburg and 20 minute travel time. This anecdotal information produces a very high dv. 50 to 160 ft2/s may be more realistic.,good,"Some documentation exists, but event occurred long ago.",Y,Y
+Mohegan Park (Spaulding Pond) Dam,96,7,0.007,45,no warning,20,yes,earth,1000,1,Wide,138,hydrologic,night,3/6/63,3/6/63,low,,unknown,unknown,80,10,,good,data is limited,Y,Y
+Nevado del Ruis Lahar,15,22000,0.85,950,no warning,na,no,,26000,30,Wide,na,others,night,11/13/1985,11/13/1985,high,,na,na,950,,,good,,Y,Y
+Passaic River Basin Flood,117,2,0.00008,,adequate warning,na,no,,25000,na,Wide,na,others,varied,4/1/1984,4/1/1984,low,,na,precise,,,,fair,,Y,N
+Phoenix Area Flood,111,0,0,30,adequate warning,na,no,,6000,na,Wide,na,others,varied ,2/15/1980,2/15/1980,low,,na,precise,50,10,,fair,,Y,Y
+Prospect Dam,113,0,0,4,adequate warning,45,yes,earth,100,na,,5850,static,day,2/10/1980,2/10/1980,low,,fast,precise,4,,,good,,Y,Y
+Quail Creek Dike  (close to the dam),98,0,0,1098,adequate warning,28,yes,earth,1500,16,Wide,40000,static,night,1/1/1989,1/1/1989,low,,moderately fast,precise,29,,DV was much higher at unpopulated location close to dam,good,,Y,Y
+Quail Creek Dike,98,0,0,29,adequate warning,28,yes,earth,1500,16,Wide,40000,static,night,1/1/1989,1/1/1989,low,,moderately fast,precise,29,,DV was much higher at unpopulated location close to dam,good,,Y,Y
+"Reservoir No.1 Dam, S. Davis Co. Water Imp. Dist.",91,0,0.00001,25,no warning,15,yes,earth,80,0.02,Wide,4.4,static,night,9/24/1961,9/24/1961,low,,unknown,na,25,10,,fair,,Y,Y
+Seminary Hill Reservoir No. 3,93,0,0.00001,80,no warning,17,yes,earth,150,0.25,Narrow,10.7,static,day,10/5/1991,10/5/1991,low,,unknown,na,80,10,,good,,Y,Y
+"Shadyside, Ohio Flash Flood",60,24,0.02715,75,no warning,na,no,,884,na,Narrow,na,others,night,6/14/1990,6/14/1990,medium,,na,vague,100,50,"DV is estimated to be 50 to 100 ft2/s or greater ,based on steep channel and 20-ft depths. Photos show  
+sinificant buildin destruction which suorts the hih DV",good,,Y,Y
+Shijiagou Dam - Shijiagou Village,79,81,0.27,68,Partial warning,98.4,yes,earth,300,0.5,Narrow,689,hydrologic,day,8/25/1973,8/25/1973,medium,,unknown,vague,68,,"Zhou perform FLDWAV modeling in 2006, DV appears to have been estimated from model discharge data  
+divided by flood plain width",fair,"Adobe residential structures, which were weak, may have contributed to the high fatalities, A beeter description, photos and a detailed location map might improve confidence in data",N,Y
+"Situ Gintung Dam, Jakarta Indonesia",84,98,0.06125,81,no warning,52.5,yes,earth,1600,0.5,Wide,1630,hydrologic,night,3/27/2009,3/27/2009,medium,,unknown,unknown,108,54,"depths were reported, velocity range was guesstimated",good,event has been well doucmented,N,Y
+South fork Dam - East Conemaugh,49,11,0.0055,210,adequate warning,72,yes,earth,2000,11.5,Wide,11500,hydrologic,day,5/31/1889,5/31/1889,high,,fast,precise,210,,,good,"a lot of data is available for this event, but it happened long ago",Y,Y
+South Fork Dam - Johnstown,49,1756,0.08866,135,no warning,72,yes,earth,19806,14,Wide,11500,hydrologic,day,5/31/1889,5/31/1889,high,,fast,na,135,,,good,"a lot of data is available for this event, but it happened long ago",Y,Y
+South Fork Dam - Mineral Point,49,7,0.035,360,adequate warning,72,yes,earth,200,6.3,Narrow,11500,hydrologic,day,5/31/1889,5/31/1889,high,,fast,precise,360,,,good,"a lot of data is available for this event, but it happened long ago",Y,Y
+South Fork Dam - Town of South Fork,49,2,0.01,250,adequate warning,72,yes,earth,200,2,Wide,11500,hydrologic,day,5/31/1889,5/31/1889,high,,fast,precise,250,,,good,"a lot of data is available for this event, but it happened long ago",Y,Y
+South Fork Dam - Woodvale,49,314,0.2518,180,no warning,72,yes,earth,1247,12.5,Narrow,11500,hydrologic,day,5/31/1889,5/31/1889,high,,fast,na,180,,,good,"a lot of data is available for this event, but it happened long ago",Y,Y
+South Platte River Flood,115,1,0.0001,25,adequate warning,na,no,,10000,na,Wide,na,flash flood,varied,6/16/1965,6/16/1965,low,,na,precise,40,10,,fair,,Y,Y
+St Francis Dam - Edison Camp,13,84,0.56,699,no warning,184,yes,concrete,150,18.6,Narrow,38000,hydrologic,night,3/13/1928,3/13/1928,high,,very fast,na,1238,130,based on MIKE21 hydraulic model,very good,total flood event fatalities range from 420 to more than 600,Y,Y
+St Francis Dam - Fillmore,13,unknown,,160,Partial warning,184,yes,concrete,unknown,31.7,,38000,hydrologic,night,3/13/1928,3/13/1928,medium,,very fast,vague,160,50,,good,total flood event fatalities range from 420 to more than 600,N,Y
+St Francis Dam - Oxnard Plain,13,unknown,,50,adequate warning,184,yes,concrete,unknown,51.5,,38000,hydrologic,night,3/13/1928,3/13/1928,low,,very fast,vague,50,10,,fair,total flood event fatalities range from 420 to more than 600,N,N
+St Francis Dam - Powerhouse No. 2,13,"exact number  
+unknown",0.9,2960,no warning,184,yes,concrete,,1.4,Narrow,38000,hydrologic,night,3/13/1928,3/13/1928,high,,very fast,na,2960,-,based on forensic data,very good,total flood event fatalities range from 420 to more than 600,Y,Y
+St Francis Dam - Santa Paula,13,unknown,,160,adequate warning,184,yes,,unknown,40.1,,38000,hydrologic,night,3/13/1928,3/13/1928,medium,,very fast,vague,160,50,,good,total flood event fatalities range from 420 to more than 600,N,Y
+Stava Tailings Dam,17,268,,3250,no warning,164.4,yes,,unknown,0.5,,146,others,day,7/19/1985,7/19/1985,high,,fast,na,3250,2500,,good,"Travel times based on seismogram readings, depths are anecdotal",Y,N
+Taum Sauk Upper Dam,25,0,0.00001,180,no warning,94,yes,concrete,unknown,0.25,Narrow,4300,hydrologic,night,12/14/2005,12/14/2005,high,,fast,na,180,80,"DV is guesstimated based on photos of the flood zone wher ethe area appears to have been swept clean, park ranger's wood frame house was destroyed, so low dv was at least 80 ft2/s",good,,N,Y
+Teton Dam - Rexburg,56,2,0.0002,63,adequate warning,305,yes,earth,unknown,15.3,Wide,240000,static,day,6/5/1976,6/5/1976,medium,,moderately fast,,63,,,good,,Y,Y
+Teton Dam - Roberts,56,0,0,34,adequate warning,305,yes,earth,unknown,43.1,Wide,240000,static,day,6/5/1976,6/5/1976,low,,moderately fast,unknown,34,,,good,,N,Y
+Teton Dam - Sugar City,56,0,0,180,adequate warning,305,yes,earth,11360,12.3,Wide,240000,static,day,6/5/1976,6/5/1976,medium,,moderately fast,precise,180,,,good,,N,Y
+Teton Dam - Teton Canyon,56,1,0.5,1375,no warning,305,yes,earth,2,2.5,Narrow,240000,static,day,6/5/1976,6/5/1976,high,,moderately fast,na,1650,1100,rate of rise meets high severity criteria,good,,N,Y
+Teton Dam - Wilford,56,8,0.021,180,Partial warning,305,yes,earth,370,8.4,Wide,240000,static,day,6/5/1976,6/5/1976,medium,,moderately fast,precise,180,,,good,,Y,Y
+Texas Hill Country Flood,106,27,0.01304,45,Partial warning,na,no,,2070,na,Wide,na,others,night,8/1 - 8/3/1978,8/1 - 8/3/1978,medium/low,,na,vague,80,10,houses were destroyed. May have been medium severity in places.,fair to good,event is well documented but DV related info not reported,Y,Y
+Texas Hill Country Flood,106,27,0.01304,45,adequate warning,na,no,,2070,na,Wide,na,others,night,8/1 - 8/3/1978,8/1 - 8/3/1978,medium/low,,na,vague,80,10,houses were destroyed. May have been medium severity in places.,fair to good,event is well documented but DV related info not reported,Y,Y
+Timberlake Dam,85,2,0.28571,61,no warning,33,yes,earth,7,1,Wide,1449,hydrologic,night,6/22/1995,6/22/1995,medium,,unknown,na,61,,Dv estimatedd by McClelland and Bowles - was likely higher at road crossing where fatality occurred.,fair to good,PAR estimated by McClelland and Bowles,N,Y
+Vajont Dam,19,1269,0.94,5060,no warning,869,no,concrete,1350,1,Narrow,na,others,night,10/9/1963,10/9/1963,high,,very fast,na,5060,,"High DV is based on flood wave traveling 1 mile in 4 minutes, with a reported max depth of 230 feet.",good,"Total fatalities has been estimated at 2,600. The PAR and fatality info in table is for the town of Longerone where  
+flooding was most severe.",Y,Y
+Vega de Tera,11,144,0.288,300,no warning,112,yes,concrete,500,5,Narrow,6500,hydrologic,night,1/9/1959,1/9/1959,high,,very fast,na,400,200,"Dv estimate based on reported 20 ft depth and velocities assumed to range from 10 to 20 ft/s (St Francis Dam  
+velocity at power house No.2 was 26 ft/s, so these numbers may be reasonable..)",good,,Y,Y
+Walnut Grove Dam,23,70 to 100,,880,no warning,110,yes,,unknown,22.5,,60000,hydrologic,night,2/21/1890,2/21/1890,high,,unknown,na,880,,DV estimate is at Wickenburg. Dv at upstream construction camp may have been even higher," good but need  
+more info",,N,N
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
