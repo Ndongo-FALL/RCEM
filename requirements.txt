@@ -1,4 +1,5 @@
 asttokens==2.4.1
+gunicorn
 attrs==23.2.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
