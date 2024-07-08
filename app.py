@@ -13,7 +13,7 @@ app = Dash(
     __name__,
     external_scripts=external_scripts,
 )
-
+server = app.server
 rcem_data = pd.read_csv("rcem_data.csv")
 bound_data = pd.read_csv("data.csv")
 Ad_bound = pd.read_csv("adeq_data.csv")
